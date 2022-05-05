@@ -36,4 +36,3 @@ function handleHtml(html){
 }
 
 
-console.log('after')
